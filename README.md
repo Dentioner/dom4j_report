@@ -50,5 +50,9 @@
 
 \[21\] [https://2550688560.gitbook.io/dom4j\_guide/chapter1/jian-dan-shi-yong-dom4j](https://2550688560.gitbook.io/dom4j_guide/chapter1/jian-dan-shi-yong-dom4j)
 
+\[22\] [https://www.w3school.com.cn/xmldom/index.asp](https://www.w3school.com.cn/xmldom/index.asp)
+
+\[23\] [https://github.com/ZhangZiSheng001/dom4j-demo\#dom4j%E8%8A%82%E7%82%B9%E7%9A%84%E7%B1%BB%E7%BB%93%E6%9E%84](https://github.com/ZhangZiSheng001/dom4j-demo#dom4j%E8%8A%82%E7%82%B9%E7%9A%84%E7%B1%BB%E7%BB%93%E6%9E%84)
+
 
 
